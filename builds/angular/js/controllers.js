@@ -5,6 +5,5 @@ myApp.controller('MyController', function MyController($scope) {
     'name' : 'Ray Villalobos',
     'title' : 'Staff Author',
     'company' : 'Lynda.com'
-  }
+  };
 });
-
